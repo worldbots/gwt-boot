@@ -8,7 +8,7 @@
     <artifactId>gwt-boot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name> Spring-Boot GWT WebApp</name>
+    <name>Spring-Boot GWT WebApp</name>
 
     <dependencyManagement>
         <dependencies>
